@@ -15,9 +15,9 @@ Manual Student Attendance Management system is a process where a teacher concern
 ## •  First Install [Python 3.6][1] & [PyCharm][2] on your System. 
 [1]:https://www.python.org/downloads/release/python-360/ "Python 3.6" 
 [2]:https://www.jetbrains.com/pycharm/ "PyCharm"
-## •  Then Create a Python Project "FaceRecognitionProject"
+## •  Then Create a Python Project `"FaceRecognitionProject"`
 ## •  Then copy all the file and folders to your project 
-## •  Open your project then go to "File > Settings (ctrl+alt+s) > Project > Python Intrepreter" install the following packages:
+## •  Open your project then go to `"File > Settings (ctrl+alt+s) > Project > Python Intrepreter"` install the following packages:
 ###   1.  numpy
 ###   2.  cmake
 ###   3.  dlib (Specified ver. 19.18.0)
