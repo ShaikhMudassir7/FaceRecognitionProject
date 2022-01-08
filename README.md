@@ -10,3 +10,27 @@ Manual Student Attendance Management system is a process where a teacher concern
 •  Thus the attendance of the students presensie the class is marked by using face Recognition technology which is implied with the machine learning algorithms. The Automated Attendance System helps in increasing the accuracy and speed ultimately to Achieve the high-precision real-time attendance and its evaluation process.
 
 •  This system aims to build an effective class attendance system using face recognition Techniques. The proposed system will be able to mark the attendance via face recognition, it will Detect faces via webcam and then recognize the faces which is there in the dataset: After recognition, it will mark the Attendance of the recognized a student and update the attendance record.
+
+# Step to install 
+## •  First Install [Python 3.6][1] & [PyCharm][2] on your System. 
+[1]:https://www.python.org/downloads/release/python-360/ "Python 3.6" 
+[2]:https://www.jetbrains.com/pycharm/ "PyCharm"
+## •  Then Create a Python Project "FaceRecognitionProject"
+## •  Then copy all the file and folders to your project 
+## •  Go to your terminal change to project directory and install the following packages using syntax 'pip install (package_name)'
+###   1.  numpy
+###   2.  cmake
+###   3.  dlib
+###   4.  face-recognition
+###   1.  face-recognition-models
+###   2.  Kivy
+###   3.  Kivy-Garden
+###   4.  kivymd
+###   1.  cv2
+###   2.  pandas
+###   3.  playsound 
+###   4.  gTTS
+###   1.  face-recognition-util
+###   2.  pyinstaller
+
+
