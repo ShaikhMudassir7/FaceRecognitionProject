@@ -17,20 +17,20 @@ Manual Student Attendance Management system is a process where a teacher concern
 [2]:https://www.jetbrains.com/pycharm/ "PyCharm"
 ## •  Then Create a Python Project "FaceRecognitionProject"
 ## •  Then copy all the file and folders to your project 
-## •  Go to your terminal change to project directory and install the following packages using syntax 'pip install (package_name)'
+## •  Open your project then go to "File > Settings (ctrl+alt+s) > Project > Python Intrepreter" install the following packages:
 ###   1.  numpy
 ###   2.  cmake
-###   3.  dlib
+###   3.  dlib (Specified ver. 19.18.0)
 ###   4.  face-recognition
 ###   1.  face-recognition-models
 ###   2.  Kivy
 ###   3.  Kivy-Garden
 ###   4.  kivymd
-###   1.  cv2
+###   1.  opencv-python
 ###   2.  pandas
-###   3.  playsound 
+###   3.  playsound (Specified ver. 1.2.2)
 ###   4.  gTTS
 ###   1.  face-recognition-util
-###   2.  pyinstaller
-
+## •  After the packages installed run your project make sure it works correctly.
+## •  Open the terminal Change to project directory using cd, then install pyinstaller using command `pip install pyinstaller` then after the installation write command `pyinstaller main_kivy.spec -y` thats it will make a dist folder in your project directory go to `"dist > main_kivy > open 'main_kivy.exe'"`
 
